@@ -11,7 +11,7 @@ Apres installation du logiciel ANACONDA, après l'avoir lancé, dans son intefac
 
 ## Interface Jupiter
 
-Dans l'interface Web de Jupiter, Ouvrir le fichier Apprentissage_Auto_InfoCentre.ipynb dans le dossier Téléchargé 
+Dans l'interface Web de Jupiter, Ouvrir le fichier Apprentissage_Auto_InfoCentre.ipynb dans le dossier Téléchargé (Fichier source jupyter)
 
 ## Fin
 
